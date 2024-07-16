@@ -1,0 +1,6 @@
+summerepi2==1.3.5
+estival[pymc,nevergrad]==0.5.1
+git+https://github.com/monash-emu/renewal.git@108e577
+ipykernel
+ipywidgets
+nbformat
